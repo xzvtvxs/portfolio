@@ -1,0 +1,6 @@
+.skillSetElem {
+  margin: 5px;
+  width: fit-content;
+  border-radius: 10px;
+  overflow: hidden;
+}
